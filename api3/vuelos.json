@@ -1,0 +1,113 @@
+{
+    "data": [
+          {
+              "iata": "PXA2001",
+              "flight_date": "2022-02-18",
+              "flight_status": "ontime",
+              "departure": {
+                  "airport": "infuy internatiol airport",
+                  "timezone": "Uruguay\/Montevideo",
+                  "iata": "IUY",
+                  "icao": "INUY",
+                  "terminal": "1",
+                  "gate": "T1G3",
+                  "delay": null,
+                  "scheduled": "2022-10 20T08:40:00+00:00",
+                  "estimated": "2022-10-20T08:40:00+00:00",
+                  "actual": null,
+                  "estimated_runway": null,
+                  "actual_runway": null
+              },
+              "arrival": {
+                  "airport": "Port Macquarie",
+                  "timezone": "Australia\/Sydney",
+                  "iata": "PQQ",
+                  "icao": "YPMQ",
+                  "terminal": "2",
+                  "gate": null,
+                  "baggage": null,
+                  "delay": null,
+                  "scheduled": "2022-02-18T09:40:00+00:00",
+                  "estimated": "2022-02-18T09:40:00+00:00",
+                  "actual": null,
+                  "estimated_runway": null,
+                  "actual_runway": null
+              },
+              "airline": {
+                  "name": "Pixel Airline",
+                  "iata": "PXA",
+                  "icao": "PXAXP"
+              },
+              "flight": {
+                  "number": "2001",
+                  "iata": "PXA2001",
+                  "icao": "PXAXP2001",
+                  "codeshared": {
+                    "airline_name" : null,
+                    "airline_iata" : null,
+                    "airline_icao" : null,
+                    "flight_number" : null,
+                    "flight_iata" : null,
+                    "flight_icao" : null
+                  }
+              },
+              "aircraft": null,
+              "live": null
+          },
+                                    {
+              "iata": "RFA3100",
+              "flight_date": "2022-02-18",
+              "flight_status": "Delayed",
+              "departure": {
+                  "airport": "infuy internatiol airport",
+                  "timezone": "Uruguay\/Montevideo",
+                  "iata": "IUY",
+                  "icao": "INUY",
+                  "terminal": "1",
+                  "gate": "T2G1",
+                  "delay": null,
+                  "scheduled": "2022-10 20T08:40:00+00:00",
+                  "estimated": "2022-10-20T08:40:00+00:00",
+                  "actual": null,
+                  "estimated_runway": null,
+                  "actual_runway": null
+              },
+              "arrival": {
+                  "airport": "Port Macquarie",
+                  "timezone": "Australia\/Sydney",
+                  "iata": "PQQ",
+                  "icao": "YPMQ",
+                  "terminal": "2",
+                  "gate": null,
+                  "baggage": null,
+                  "delay": null,
+                  "scheduled": "2022-02-18T09:40:00+00:00",
+                  "estimated": "2022-02-18T09:40:00+00:00",
+                  "actual": null,
+                  "estimated_runway": null,
+                  "actual_runway": null
+              },
+              "airline": {
+                  "name": "Rafa Airline",
+                  "iata": "RFA",
+                  "icao": "RAFA"
+              },
+              "flight": {
+                  "number": "3100",
+                  "iata": "RFA3100",
+                  "icao": "RAFA3100",
+                  "codeshared": {
+                    "airline_name" : "Tincho Airline",
+                    "airline_iata" : "TNA",
+                    "airline_icao" : "TANANT",
+                    "flight_number" : "5001",
+                    "flight_iata" : "TNA5001",
+                    "flight_icao" : "TANANT5001"
+                  }
+              },
+              "aircraft": null,
+              "live": null
+          }
+
+         ]
+        }
